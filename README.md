@@ -5,3 +5,5 @@ main file :|  run.py <br>
            |_ templates <br>
              | _ index.html <br>
              | _ wol.html <br>
+we need these Applications :<br>
+<code>Flask,request,render_template,flash</code>
